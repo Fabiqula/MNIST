@@ -1,0 +1,1 @@
+This is a project for algorithm that would be able to recognize hand written digits.
